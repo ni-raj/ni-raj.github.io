@@ -22,10 +22,13 @@ ul li{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 40px !important;
+    color: #3b5998 !important;
+    font-family: Sedgwick Ave, cursive;
 
 }
-h1{
+/*h1{
     color: blue;
     font-size: 80;
     font-family: "Segwick Ave Display",cursive;
-}
+}*/
